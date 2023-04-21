@@ -1,0 +1,6 @@
+JSON - JavaScript Object Notation
+
+JSON commands:
+Write to JSON: json.dump()
+Read from JSON: json.load()
+Update JSON: json.update()
