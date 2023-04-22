@@ -1,0 +1,12 @@
+API - Application Programming Interface: Set of commands, functions, protocols, and objects
+      that programmers can use to create software or interact with an external system.
+
+
+Response codes number overview:(httpstatuses.com)
+    1XX: Hold on
+    2XX: Here you go
+    3XX: Go away... Permission issues
+    4XX: You Screwed up
+    5XX: Server Screwed up or other issue
+
+
