@@ -1,0 +1,3 @@
+Database url = https://opentdb.com/api_config.php
+
+Note: self in classes. By giving self, it turns this into a property which can be accessed anywhere in the class.
