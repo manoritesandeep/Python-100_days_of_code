@@ -32,3 +32,9 @@ Web Development Projects - After day 40...
 HTML
 CSS
 
+Selenium
+
+Linkedin Job application
+
+
+
