@@ -32,7 +32,7 @@ Web Development Projects - After day 40...
 HTML
 CSS
 
-Selenium
+Selenium 
 
 Linkedin Job application
 
